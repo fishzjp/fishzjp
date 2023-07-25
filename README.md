@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-https://badges.pufler.dev/visits/{fishzjp}/{File_tools}
+https://badges.pufler.dev/visits/fishzjp/FileTools
