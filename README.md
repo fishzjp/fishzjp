@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![Visitor Count](https : //profile-counter.glitch.me/fishzjp/count.svg)
 
 <p align="center">
   <a href="https://github.com/fishzjp" class="rich-diff-level-one">
