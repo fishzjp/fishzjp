@@ -67,4 +67,7 @@
 <br>
 ### Below is my personal public account, where I share my learning journey and newly acquired knowledge. Feel free to follow and stay updated with my updates!
 
-<img src="https://github.com/fishzjp/fishzjp/assets/105406371/d78c931a-b4c7-4d44-b624-82099c957bd1" align="center">
+<p  align="center">
+  <img src="https://github.com/fishzjp/fishzjp/assets/105406371/d78c931a-b4c7-4d44-b624-82099c957bd1">
+</p>
+
