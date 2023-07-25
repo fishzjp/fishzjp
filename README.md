@@ -1,5 +1,5 @@
 ### Hello, I am Fish, a developer from China, and I work as a software testing engineer. I am proficient in using Python for software testing. This is my homepage, and I welcome you to communicate and interact with me. May we become even stronger together.👋
-
+<br>
 <p align="center">
   <a href="https://github.com/fishzjp" class="rich-diff-level-one">
     <img src="https://github-readme-stats.vercel.app/api?username=fishzjp&title_color=333&text_color=777" alt="fishzjp's Stats" >
@@ -66,7 +66,7 @@
 <br>
 <br>
 ### Below is my personal public account, where I share my learning journey and newly acquired knowledge. Feel free to follow and stay updated with my updates!
-
+<br>
 <p  align="center">
   <img src="https://github.com/fishzjp/fishzjp/assets/105406371/d78c931a-b4c7-4d44-b624-82099c957bd1">
 </p>
