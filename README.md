@@ -1,3 +1,7 @@
+<div align="center">
+  <img data-target="animated-image.replacedImage" alt="maid.gif?raw=true" class="AnimatedImagePlayer-animatedImage" src="https://github.com/miluluyo/photo_gallery/raw/master/maid.gif?raw=true" width="300" height="169" style="display: block; opacity: 1;">
+</div>
+<br>
 ### Hello, I am Fish, a developer from China, and I work as a software testing engineer. I am proficient in using Python for software testing. This is my homepage, and I welcome you to communicate and interact with me. May we become even stronger together.👋
 <br>
 <p align="center">
