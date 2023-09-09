@@ -3,7 +3,7 @@
 </div>
 <br>
 
-### Hello, I am Fish, a developer from China, and I work as a software testing engineer. I am proficient in using Python for software testing. This is my homepage, and I welcome you to communicate and interact with me. May we become even stronger together.👋
+### *Hello, I am Fish 🧐, a developer from China, and I work as a software testing engineer. I am proficient in using Python for software testing. This is my homepage, and I welcome you to communicate and interact with me. May we become even stronger together.👋*
 <br>
 <p align="center">
   <a href="https://github.com/fishzjp" class="rich-diff-level-one">
