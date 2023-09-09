@@ -3,7 +3,7 @@
 </div>
 <br>
 
-### *Hello, I am Fish 🧐, a developer from China, and I work as a software testing engineer. I am proficient in using Python for software testing. This is my homepage, and I welcome you to communicate and interact with me. May we become even stronger together.👋*
+### *Hello, I am Fish* 🧐 *, a developer from China, and I work as a software testing engineer. I am proficient in using Python for software testing. This is my homepage, and I welcome you to communicate and interact with me. May we become even stronger together.👋*
 <br>
 <p align="center">
   <a href="https://github.com/fishzjp" class="rich-diff-level-one">
@@ -18,7 +18,7 @@
     <img src="https://img.icons8.com/ios-filled/50/000000/weixing.png" width="28px"/>
   </a>
   <br><br>
-  <strong>Check out my work below!</strong>
+  <strong><em>Check out my work below!</em></strong>
   <br><br>
   <a href="https://github.com/fishzjp">
     <img src="https://badges.strrl.dev/visits/fishzjp/fishzjp?style=flat-square&color=black&logo=github">
@@ -42,7 +42,7 @@
 <img align="right" alt="GIF" src="code.gif" width="343" height="220" title="Do what you like, and do it best!"> &nbsp;&nbsp;&nbsp;&nbsp;
 
 
-**Languages and Frameworks**
+***Languages and Frameworks***
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="C++" title="C++"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" title="Python"></code>
@@ -55,7 +55,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="Docker" title="Docker"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" alt="TensorFlow" title="TensorFlow"></code>
 
-**Tools and Environments**
+***Tools and Environments***
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VSCode" title="VSCode"></code>
 <code><img height="20" src="https://user-images.githubusercontent.com/29084184/128668555-59d96329-2e64-4370-bfdc-89bf7a12aea8.png" alt="ARM-Keil" title="ARM-Keil"></code>
@@ -70,7 +70,7 @@
 <br>
 <br>
 <br>
-### Below is my personal public account, where I share my learning journey and newly acquired knowledge. Feel free to follow and stay updated with my updates!
+### *Below is my personal public account, where I share my learning journey and newly acquired knowledge. Feel free to follow and stay updated with my updates!*
 <br>
 <p  align="center">
   <img src="https://github.com/fishzjp/fishzjp/assets/105406371/d78c931a-b4c7-4d44-b624-82099c957bd1">
